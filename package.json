@@ -12,6 +12,7 @@
     "ava": "^0.15.2",
     "babel-core": "^6.10.4",
     "babel-preset-es2015-node6": "^0.2.0",
+    "mimir": "0.0.1",
     "node-mind": "^0.2.1"
   }
 }
